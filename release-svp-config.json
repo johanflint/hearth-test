@@ -1,0 +1,15 @@
+{
+  "targetBranch": "main",
+  "components": [
+    {
+      "component": "server",
+      "path": "server",
+      "releaseType": "rust"
+    }
+  ],
+  "migration": {
+    "cutoverCommit": "b1ebaa4482d5b99b963eb9b6ee2ed1003fd919f0",
+    "legacyRootSuccessor": "server",
+    "legacyAnchorTag": "v0.6.0"
+  }
+}
