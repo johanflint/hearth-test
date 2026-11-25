@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.6.1 (2026-11-25)
+
+### Build System
+
+- Merge pull request #1 from johanflint/build/monorepo
+
 ## v0.6.0 (2026-11-24)
 
 ### Features
