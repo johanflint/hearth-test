@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.7.0 (2026-11-27)
+
+### Features
+
+- Merge pull request #10 from johanflint/feature/app-skeleton
+
 ## v0.6.0 (2026-11-24)
 
 ### Features
